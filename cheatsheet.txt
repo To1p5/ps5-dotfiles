@@ -1,0 +1,37 @@
+============================================================
+              PS5 ARCH SWAY CHEAT SHEET
+============================================================
+
+WINDOW NAVIGATION
+  Super + Enter             : Open Terminal (foot)
+  Super + Arrows (h/j/k/l)  : Switch focus between windows
+  Super + Shift + Q         : Close focused window
+  Super + F                 : Toggle Fullscreen
+  Super + 1..9              : Jump to Workspace 1..9
+  Super + Shift + 1..9      : Move window to Workspace 1..9
+  Super + Shift + C         : Reload Sway config
+  Super + Shift + X         : Exit / Log out
+
+APP LAUNCHERS
+  Super + Shift + B         : Brave Browser
+  Super + E                 : Thunar (GUI File Manager)
+  Super + Shift + E         : Yazi (Terminal File Manager)
+  Super + ?                 : Toggle this Cheat Sheet
+
+SCREENSHOTS
+  Super + Alt + P           : Active window -> Clipboard (No Mouse)
+  Super + P                 : Full screen   -> Clipboard (No Mouse)
+  Print                     : Full screen   -> ~/Pictures/
+  Super + Shift + S         : Windows-style frozen snip (Mouse)
+
+PRODUCTIVITY & SHORTCUTS
+  Ctrl + L (in Brave)       : Focus Address / URL bar
+  Ctrl + Shift + C / V      : Copy / Paste in Terminal
+  Ctrl + V                  : Paste in Brave / Thunar
+  <command> | wl-copy       : Pipe any output directly to clipboard
+
+SYSTEM COMMANDS
+  sync && sudo poweroff     : Safe PS5 shutdown
+  killall swaynag           : Dismiss red warning bar
+============================================================
+                  Press 'q' to close
